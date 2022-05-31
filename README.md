@@ -11,7 +11,8 @@
              █														asciiart.club
 
 # CopyPoppy - A Source Code Plagiarism Detection Tool
-<sub><sup>\* Version 0.1b </sub></sup> <br />
+<sub><sup>\* Version 0.1b </sub></sup>
+
 This tool detects plagiarism among file submissions. It is still in beta state as more features have yet to come. Some of it are:
 
 1. Improve tokenization algorithm to separate string tokens after every `;` and `{`.
@@ -31,9 +32,12 @@ Disk (Storage)|5MB Free|100MB Free
 
 ### Prerequisites
 
-IDE: [IntelliJ IDEA 2021.3 or Higher](https://www.jetbrains.com/idea/download) <br />
-Java: [JDK 17.0.2 or Higher](https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi) <br />
-External Libraries (JAR): [Commons IO 2.11.0](https://dlcdn.apache.org//commons/io/binaries/commons-io-2.11.0-bin.zip), [Commons Lang3 3.12.0](https://dlcdn.apache.org//commons/lang/binaries/commons-lang3-3.12.0-bin.zip) <br />
+IDE: [IntelliJ IDEA 2021.3 or Higher](https://www.jetbrains.com/idea/download)
+
+Java: [JDK 17.0.2 or Higher](https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi)
+
+External Libraries (JAR): [Commons IO 2.11.0](https://dlcdn.apache.org//commons/io/binaries/commons-io-2.11.0-bin.zip), [Commons Lang3 3.12.0](https://dlcdn.apache.org//commons/lang/binaries/commons-lang3-3.12.0-bin.zip)
+
 External Library (Maven): com.github.javaparser:javaparser-core:3.24.2
 
 ## Compiling
@@ -49,4 +53,8 @@ No contributing rules of coding and pull requests are established yet.
 
 ## License
 
-CopyPoppy is free/libre and open source software.
+## License
+
+CopyPoppy is free/libre and open source software, it is using the GPLv3 license.
+
+See [LICENSE](LICENSE) for the full license text.
