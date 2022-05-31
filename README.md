@@ -53,8 +53,6 @@ No contributing rules of coding and pull requests are established yet.
 
 ## License
 
-## License
-
 CopyPoppy is free/libre and open source software, it is using the GPLv3 license.
 
 See [LICENSE](LICENSE) for the full license text.
