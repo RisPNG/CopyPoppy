@@ -43,7 +43,7 @@ External Library (Maven): com.github.javaparser:javaparser-core:3.24.2
 ## Compiling
 
 1. Download code as ZIP and extract into `CopyPoppy` folder.
-1. `Open Folder as IntelliJ IDEA Project`
+1. `Open Folder as IntelliJ IDEA Project`.
 1. Import external libraries as project dependencies.
 1. Run CopyPoppy.
 
