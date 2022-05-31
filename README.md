@@ -2,14 +2,14 @@
 [![PayPal](https://img.shields.io/badge/Donate%20on-PayPal-00457C.svg?logo=paypal)](https://paypal.me/itsris)
 [![Chat with Me!](https://img.shields.io/badge/Discord-chat-7289da.svg?&logo=discord)](https://discord.gg/xnwRcyPn)
 
-      ███▓██▌                                         
-    ▄███████    █▀▀▀▀  ▄▀▀▀▀▀█  █▀▀▀▀▌  █   █▀ █▀▀▀▀▄  █▀▀▀▀█▌  ▌▀▀▀█  █▀▀▀█▄ ▀▌   █
-    █▀▀██████  █      ▐▌      █ █   ▄▀   ▀█▄▌  ▌   █▀ █      ▀▄ ▌   █  ▌   █▀   █▄█
-       ▐█▀▐█   ▌      ▐▌      █ █▀▀▐      ▐▀   █▀▀▀   █      █  █▀▀▀   █▀▀▀      █
-            █  ▀█▄▄▄   ▐▀█▄▄█▀  ▀▌        █    █       ▀█▄▄█▀▀  █      █        ▄▀
-            █▄
-             █														asciiart.club
-			 
+  ███▓██▌                                         
+▄███████    █▀▀▀▀  ▄▀▀▀▀▀█  █▀▀▀▀▌  █   █▀ █▀▀▀▀▄  █▀▀▀▀█▌  ▌▀▀▀█  █▀▀▀█▄ ▀▌   █
+█▀▀██████  █      ▐▌      █ █   ▄▀   ▀█▄▌  ▌   █▀ █      ▀▄ ▌   █  ▌   █▀   █▄█
+   ▐█▀▐█   ▌      ▐▌      █ █▀▀▐      ▐▀   █▀▀▀   █      █  █▀▀▀   █▀▀▀      █
+        █  ▀█▄▄▄   ▐▀█▄▄█▀  ▀▌        █    █       ▀█▄▄█▀▀  █      █        ▄▀
+        █▄
+         █														asciiart.club
+
 # CopyPoppy - A Source Code Plagiarism Detection Tool
 <sub><sup>\* Version 0.1b \ </sub></sup>
 This tool detects plagiarism among file submissions. It is still in beta state as more features have yet to come. Some of it are:
