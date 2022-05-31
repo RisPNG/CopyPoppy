@@ -32,10 +32,10 @@ Disk (Storage)|5MB Free|100MB Free
 
 ### Prerequisites
 
-IDE|[IntelliJ IDEA 2021.3 or Higher](https://www.jetbrains.com/idea/download)
-Java|[JDK 17.0.2 or Higher](https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi)
-External Libraries (JAR)|[Commons IO 2.11.0](https://dlcdn.apache.org//commons/io/binaries/commons-io-2.11.0-bin.zip), [Commons Lang3 3.12.0](https://dlcdn.apache.org//commons/lang/binaries/commons-lang3-3.12.0-bin.zip)
-External Library (Maven)|com.github.javaparser:javaparser-core:3.24.2
+IDE: [IntelliJ IDEA 2021.3 or Higher](https://www.jetbrains.com/idea/download)
+Java: [JDK 17.0.2 or Higher](https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi)
+External Libraries (JAR): [Commons IO 2.11.0](https://dlcdn.apache.org//commons/io/binaries/commons-io-2.11.0-bin.zip), [Commons Lang3 3.12.0](https://dlcdn.apache.org//commons/lang/binaries/commons-lang3-3.12.0-bin.zip)
+External Library (Maven): com.github.javaparser:javaparser-core:3.24.2
 
 ## Compiling
 
