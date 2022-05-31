@@ -11,7 +11,8 @@
              █														asciiart.club
 
 # CopyPoppy - A Source Code Plagiarism Detection Tool
-<sub><sup>\* Version 0.1b \ </sub></sup>
+<sub><sup>\* Version 0.1b </sub></sup>
+
 This tool detects plagiarism among file submissions. It is still in beta state as more features have yet to come. Some of it are:
 
 1. Improve tokenization algorithm to separate string tokens after every `;` and `{`.
