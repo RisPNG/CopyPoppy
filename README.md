@@ -13,7 +13,7 @@
 # CopyPoppy - A Source Code Plagiarism Detection Tool
 <sub>Version 0.1b</sub>
 
-This tool detects plagiarism among file submissions. It is still in beta state as more features have yet to come. Some of it are:
+This tool detects plagiarism among programming solutions. It is still in beta state as more features have yet to come. Some of it are:
 
 1. Improve tokenization algorithm to separate string tokens after every `;` and `{`.
 1. Set local database path.
