@@ -11,6 +11,8 @@
 # CopyPoppy - A Source Code Plagiarism Detection Tool
 <sub>Version 0.1b</sub>
 
+https://ieeexplore.ieee.org/document/10001740
+
 This tool detects plagiarism among file submissions. It is still in beta state as more features have yet to come. Some of it are:
 
 1. Improve tokenization algorithm to separate string tokens after every `;` and `{`.
